@@ -1,0 +1,32 @@
+{
+ "id": "org.lucas.imdb-watchlist",
+ "version": "1.0.0",
+ "name": "IMDb Watchlist (Lucas)",
+ "description": "Static copy of an IMDb watchlist: 146 movies, 49 series.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "imdb-watchlist",
+   "name": "IMDb Watchlist"
+  },
+  {
+   "type": "series",
+   "id": "imdb-watchlist",
+   "name": "IMDb Watchlist"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false,
+  "configurationRequired": false
+ }
+}

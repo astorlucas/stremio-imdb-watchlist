@@ -1,0 +1,2160 @@
+{
+ "metas": [
+  {
+   "id": "tt4976192",
+   "type": "movie",
+   "name": "211",
+   "poster": "https://images.metahub.space/poster/small/tt4976192/img",
+   "posterShape": "poster",
+   "description": "While on a routine patrol, an aging cop, his partner and their ride-along, get caught in a standoff with a band of former mercenaries robbing a bank.",
+   "releaseInfo": "2018",
+   "imdbRating": "4.4",
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt6083648",
+   "type": "movie",
+   "name": "Looking Glass",
+   "poster": "https://images.metahub.space/poster/small/tt6083648/img",
+   "posterShape": "poster",
+   "description": "Ray must race to save his wife and himself from a gruesome secret connected to a desert motel.",
+   "releaseInfo": "2018",
+   "imdbRating": "4.7",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt6998518",
+   "type": "movie",
+   "name": "Mandy",
+   "poster": "https://images.metahub.space/poster/small/tt6998518/img",
+   "posterShape": "poster",
+   "description": "The enchanted lives of a couple in a secluded forest are brutally shattered by a nightmarish hippie cult and their demon-biker henchmen, propelling a man into a spiraling, surreal rampage of vengeance.",
+   "releaseInfo": "2018",
+   "imdbRating": "6.5",
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt5460530",
+   "type": "movie",
+   "name": "Vengeance: A Love Story",
+   "poster": "https://images.metahub.space/poster/small/tt5460530/img",
+   "posterShape": "poster",
+   "description": "One vigilante policeman comes to the aid of a single mother seeking to bring her rapists to justice.",
+   "releaseInfo": "2017",
+   "imdbRating": "5.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt4382824",
+   "type": "movie",
+   "name": "Army of One",
+   "poster": "https://images.metahub.space/poster/small/tt4382824/img",
+   "posterShape": "poster",
+   "description": "After a personal visit by God himself, the eccentric construction worker Gary Faulkner takes the decision to embark on an adventure in the badlands of Pakistan to bring Al-Qaeda's leader Osama Bin Laden to justice.",
+   "releaseInfo": "2016",
+   "imdbRating": "5.2",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt2032572",
+   "type": "movie",
+   "name": "USS Indianapolis: Men of Courage",
+   "poster": "https://images.metahub.space/poster/small/tt2032572/img",
+   "posterShape": "poster",
+   "description": "During World War II, an American navy ship is sunk by a Japanese submarine leaving 890 crewmen stranded in shark infested waters.",
+   "releaseInfo": "2016",
+   "imdbRating": "5.3",
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt3733774",
+   "type": "movie",
+   "name": "The Trust",
+   "poster": "https://images.metahub.space/poster/small/tt3733774/img",
+   "posterShape": "poster",
+   "description": "A pair of cops investigating a drug invasion stumble upon a mysterious bank vault.",
+   "releaseInfo": "2016",
+   "imdbRating": "5.5",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3687398",
+   "type": "movie",
+   "name": "The Runner",
+   "poster": "https://images.metahub.space/poster/small/tt3687398/img",
+   "posterShape": "poster",
+   "description": "In the aftermath of the 2010 BP oil spill, an idealistic but flawed politician is forced to confront his dysfunctional life after his career is destroyed in a sex scandal.",
+   "releaseInfo": "2015",
+   "imdbRating": "4.7",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2467046",
+   "type": "movie",
+   "name": "Left Behind",
+   "poster": "https://images.metahub.space/poster/small/tt2467046/img",
+   "posterShape": "poster",
+   "description": "A small group of survivors is left behind after millions of people suddenly vanish and the world is plunged into chaos and destruction.",
+   "releaseInfo": "2014",
+   "imdbRating": "3.2",
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt1552224",
+   "type": "movie",
+   "name": "Outcast",
+   "poster": "https://images.metahub.space/poster/small/tt1552224/img",
+   "posterShape": "poster",
+   "description": "A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel brother, who seeks their deaths.",
+   "releaseInfo": "2015",
+   "imdbRating": "4.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt2005374",
+   "type": "movie",
+   "name": "The Frozen Ground",
+   "poster": "https://images.metahub.space/poster/small/tt2005374/img",
+   "posterShape": "poster",
+   "description": "An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.",
+   "releaseInfo": "2013",
+   "imdbRating": "6.4",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0479997",
+   "type": "movie",
+   "name": "Season of the Witch",
+   "poster": "https://images.metahub.space/poster/small/tt0479997/img",
+   "posterShape": "poster",
+   "description": "14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers could be the source of the Black Plague.",
+   "releaseInfo": "2011",
+   "imdbRating": "5.4",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt0375568",
+   "type": "movie",
+   "name": "Astro Boy",
+   "poster": "https://images.metahub.space/poster/small/tt0375568/img",
+   "posterShape": "poster",
+   "description": "When an android replica of a boy is rejected by his aggrieved creator, he goes off to find his own identity in an adventure that would make him the greatest hero of his time.",
+   "releaseInfo": "2009",
+   "imdbRating": "6.3",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0814022",
+   "type": "movie",
+   "name": "Bangkok Dangerous",
+   "poster": "https://images.metahub.space/poster/small/tt0814022/img",
+   "posterShape": "poster",
+   "description": "A hitman who's in Bangkok to pull off a series of jobs violates his personal code when he falls for a local woman and bonds with his errand boy.",
+   "releaseInfo": "2008",
+   "imdbRating": "5.3",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0462322",
+   "type": "movie",
+   "name": "Grindhouse",
+   "poster": "https://images.metahub.space/poster/small/tt0462322/img",
+   "posterShape": "poster",
+   "description": "Quentin Tarantino and Robert Rodriguez's homage to exploitation double features in the '60s and '70s with two back-to-back cult films that include previews of coming attractions between them.",
+   "releaseInfo": "2007",
+   "imdbRating": "7.5",
+   "genres": [
+    "Horror",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0469641",
+   "type": "movie",
+   "name": "World Trade Center",
+   "poster": "https://images.metahub.space/poster/small/tt0469641/img",
+   "posterShape": "poster",
+   "description": "Two Port Authority police officers become trapped under the rubble of the World Trade Center.",
+   "releaseInfo": "2006",
+   "imdbRating": "6.0",
+   "genres": [
+    "Drama",
+    "History",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0245562",
+   "type": "movie",
+   "name": "Windtalkers",
+   "poster": "https://images.metahub.space/poster/small/tt0245562/img",
+   "posterShape": "poster",
+   "description": "Two U.S. Marines in World War II are assigned to protect the Navajo Marines who use their native language as an unbreakable radio cipher.",
+   "releaseInfo": "2002",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ]
+  },
+  {
+   "id": "tt4139588",
+   "type": "movie",
+   "name": "Polar",
+   "poster": "https://images.metahub.space/poster/small/tt4139588/img",
+   "posterShape": "poster",
+   "description": "A retiring assassin suddenly finds himself on the receiving end of a hit, contracted by none other than his own employer seeking to cash in on the pensions of aging employees.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.3",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt7664504",
+   "type": "movie",
+   "name": "Three Identical Strangers",
+   "poster": "https://images.metahub.space/poster/small/tt7664504/img",
+   "posterShape": "poster",
+   "description": "In 1980 New York, three young men who were all adopted meet each other and find out they're triplets who were separated at birth. But their quest to find out why turns into a bizarre and sinister mystery.",
+   "releaseInfo": "2018",
+   "imdbRating": "7.6",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt2386490",
+   "type": "movie",
+   "name": "How to Train Your Dragon: The Hidden World",
+   "poster": "https://images.metahub.space/poster/small/tt2386490/img",
+   "posterShape": "poster",
+   "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.4",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt7775622",
+   "type": "movie",
+   "name": "Free Solo",
+   "poster": "https://images.metahub.space/poster/small/tt7775622/img",
+   "posterShape": "poster",
+   "description": "Alex Honnold faces the biggest challenge of his career, climbing El Capitan in Yosemite National Park. He pursues it Free Solo, which means climbing without a rope and alone.",
+   "releaseInfo": "2018",
+   "imdbRating": "8.1",
+   "genres": [
+    "Documentary",
+    "Adventure",
+    "Sport"
+   ]
+  },
+  {
+   "id": "tt8760684",
+   "type": "movie",
+   "name": "Apollo 11",
+   "poster": "https://images.metahub.space/poster/small/tt8760684/img",
+   "posterShape": "poster",
+   "description": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Mike Collins.",
+   "releaseInfo": "2019",
+   "imdbRating": "8.1",
+   "genres": [
+    "Documentary",
+    "History"
+   ]
+  },
+  {
+   "id": "tt7515456",
+   "type": "movie",
+   "name": "Mission of Honor",
+   "poster": "https://images.metahub.space/poster/small/tt7515456/img",
+   "posterShape": "poster",
+   "description": "The exploits of 303 Squadron RAF during the Battle of Britain. The squadron consisted of Polish pilots, many of whom were veterans of the air battles involved in Germany's invasion of Poland.",
+   "releaseInfo": "2018",
+   "imdbRating": "5.9",
+   "genres": [
+    "Action",
+    "Drama",
+    "War"
+   ]
+  },
+  {
+   "id": "tt5360996",
+   "type": "movie",
+   "name": "Mary Magdalene",
+   "poster": "https://images.metahub.space/poster/small/tt5360996/img",
+   "posterShape": "poster",
+   "description": "Twelve men heard and spread the message of Jesus. Only one woman understood it.",
+   "releaseInfo": "2018",
+   "imdbRating": "5.9",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt3361792",
+   "type": "movie",
+   "name": "Tolkien",
+   "poster": "https://images.metahub.space/poster/small/tt3361792/img",
+   "posterShape": "poster",
+   "description": "Tolkien's novels were inspired by his mom's storytelling; falling in love with another orphan, Edith; forming a brotherhood with three other misfits at school; the trench war of WWI; and later, telling stories to his own kids.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.8",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt7778680",
+   "type": "movie",
+   "name": "Photograph",
+   "poster": "https://images.metahub.space/poster/small/tt7778680/img",
+   "posterShape": "poster",
+   "description": "A struggling street photographer in Mumbai, pressured to marry by his grandmother, convinces a shy stranger to pose as his fiancée. The pair develop a connection that transforms them in ways they could not expect.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.8",
+   "genres": [
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt4951982",
+   "type": "movie",
+   "name": "The Command",
+   "poster": "https://images.metahub.space/poster/small/tt4951982/img",
+   "posterShape": "poster",
+   "description": "The 2000 K-141 Kursk submarine disaster is followed by governmental negligence. As the sailors fight for survival, their families desperately battle political obstacles and impossible odds to save them.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1560220",
+   "type": "movie",
+   "name": "Zombieland: Double Tap",
+   "poster": "https://images.metahub.space/poster/small/tt1560220/img",
+   "posterShape": "poster",
+   "description": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt4975920",
+   "type": "movie",
+   "name": "The Kid",
+   "poster": "https://images.metahub.space/poster/small/tt4975920/img",
+   "posterShape": "poster",
+   "description": "The story of a young boy who witnesses Billy the Kid's encounter with Sheriff Pat Garrett.",
+   "releaseInfo": "2019",
+   "imdbRating": "5.9",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Western"
+   ]
+  },
+  {
+   "id": "tt6704776",
+   "type": "movie",
+   "name": "The Photographer of Mauthausen",
+   "poster": "https://images.metahub.space/poster/small/tt6704776/img",
+   "posterShape": "poster",
+   "description": "Based on real events, Francesc Boix is a Spaniard inmate in the Nazi concentration camp of Mauthausen in Austria who tries to save the evidences of the horrors committed inside its walls.",
+   "releaseInfo": "2018",
+   "imdbRating": "6.7",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt1895587",
+   "type": "movie",
+   "name": "Spotlight",
+   "poster": "https://images.metahub.space/poster/small/tt1895587/img",
+   "posterShape": "poster",
+   "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+   "releaseInfo": "2015",
+   "imdbRating": "8.1",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt3521126",
+   "type": "movie",
+   "name": "The Disaster Artist",
+   "poster": "https://images.metahub.space/poster/small/tt3521126/img",
+   "posterShape": "poster",
+   "description": "When aspiring actor Greg Sestero meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true.",
+   "releaseInfo": "2017",
+   "imdbRating": "7.3",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1504320",
+   "type": "movie",
+   "name": "The King's Speech",
+   "poster": "https://images.metahub.space/poster/small/tt1504320/img",
+   "posterShape": "poster",
+   "description": "The story of King George VI, his unexpected ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+   "releaseInfo": "2010",
+   "imdbRating": "8.0",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt0100802",
+   "type": "movie",
+   "name": "Total Recall",
+   "poster": "https://images.metahub.space/poster/small/tt0100802/img",
+   "posterShape": "poster",
+   "description": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?",
+   "releaseInfo": "1990",
+   "imdbRating": "7.5",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt1386703",
+   "type": "movie",
+   "name": "Total Recall",
+   "poster": "https://images.metahub.space/poster/small/tt1386703/img",
+   "posterShape": "poster",
+   "description": "A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself o...",
+   "releaseInfo": "2012",
+   "imdbRating": "6.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt1860242",
+   "type": "movie",
+   "name": "The Highwaymen",
+   "poster": "https://images.metahub.space/poster/small/tt1860242/img",
+   "posterShape": "poster",
+   "description": "The untold true story of the legendary detectives who brought down Bonnie and Clyde.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.9",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7374952",
+   "type": "movie",
+   "name": "El Chicano",
+   "poster": "https://images.metahub.space/poster/small/tt7374952/img",
+   "posterShape": "poster",
+   "description": "A pair of twin brothers from East L.A. choose to live their lives differently and end up on opposite sides of the law.",
+   "releaseInfo": "2019",
+   "imdbRating": "5.4",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0124718",
+   "type": "movie",
+   "name": "He Got Game",
+   "poster": "https://images.metahub.space/poster/small/tt0124718/img",
+   "posterShape": "poster",
+   "description": "A basketball player's father must try to convince him to go to a college so he can get a shorter sentence.",
+   "releaseInfo": "1998",
+   "imdbRating": "6.9",
+   "genres": [
+    "Drama",
+    "Sport"
+   ]
+  },
+  {
+   "id": "tt2548396",
+   "type": "movie",
+   "name": "The Cloverfield Paradox",
+   "poster": "https://images.metahub.space/poster/small/tt2548396/img",
+   "posterShape": "poster",
+   "description": "Orbiting a planet on the brink of war, scientists test a device to solve an energy crisis, and end up face-to-face with a dark alternate reality.",
+   "releaseInfo": "2018",
+   "imdbRating": "5.5",
+   "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1179933",
+   "type": "movie",
+   "name": "10 Cloverfield Lane",
+   "poster": "https://images.metahub.space/poster/small/tt1179933/img",
+   "posterShape": "poster",
+   "description": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+   "releaseInfo": "2016",
+   "imdbRating": "7.2",
+   "genres": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt1206885",
+   "type": "movie",
+   "name": "Rambo: Last Blood",
+   "poster": "https://images.metahub.space/poster/small/tt1206885/img",
+   "posterShape": "poster",
+   "description": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt7146812",
+   "type": "movie",
+   "name": "Onward",
+   "poster": "https://images.metahub.space/poster/small/tt7146812/img",
+   "posterShape": "poster",
+   "description": "Teenage elf brothers Ian and Barley embark on a magical quest to spend one more day with their late father. Like any good adventure, their journey is filled with cryptic maps, impossible obstacles and unimaginable discoveries.",
+   "releaseInfo": "2020",
+   "imdbRating": "7.3",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt6628394",
+   "type": "movie",
+   "name": "Bad Times at the El Royale",
+   "poster": "https://images.metahub.space/poster/small/tt6628394/img",
+   "posterShape": "poster",
+   "description": "1969. Four strangers check in at the El Royale Hotel. The hotel is deserted, staffed by a single desk clerk. Some of the new guests' reasons for being there are less than innocent and some are not who they appear to be.",
+   "releaseInfo": "2018",
+   "imdbRating": "7.1",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt5628044",
+   "type": "movie",
+   "name": "Enter the Battlefield: Life on the Magic - The Gathering Pro Tour",
+   "poster": "https://images.metahub.space/poster/small/tt5628044/img",
+   "posterShape": "poster",
+   "description": "Magic: The Gathering is the most popular collectible card game in the world. At Magic's Pro Tour, players from around the globe compete to prove who is the best. They are writers, game theorists, jewelry apprentices, female pionee...",
+   "releaseInfo": "2016",
+   "imdbRating": "6.0",
+   "genres": [
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt1950186",
+   "type": "movie",
+   "name": "Ford v Ferrari",
+   "poster": "https://images.metahub.space/poster/small/tt1950186/img",
+   "posterShape": "poster",
+   "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+   "releaseInfo": "2019",
+   "imdbRating": "8.1",
+   "genres": [
+    "Action",
+    "Biography",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt10208198",
+   "type": "movie",
+   "name": "The Gangster, the Cop, the Devil",
+   "poster": "https://images.metahub.space/poster/small/tt10208198/img",
+   "posterShape": "poster",
+   "description": "A crime boss teams up with a cop to track down a serial killer.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.0",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0163978",
+   "type": "movie",
+   "name": "The Beach",
+   "poster": "https://images.metahub.space/poster/small/tt0163978/img",
+   "posterShape": "poster",
+   "description": "On vacation in Thailand, an adventurous backpacker sets out for an island rumored to be a solitary beach paradise.",
+   "releaseInfo": "2000",
+   "imdbRating": "6.6",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt8364368",
+   "type": "movie",
+   "name": "Crawl",
+   "poster": "https://images.metahub.space/poster/small/tt8364368/img",
+   "posterShape": "poster",
+   "description": "Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1025100",
+   "type": "movie",
+   "name": "Gemini Man",
+   "poster": "https://images.metahub.space/poster/small/tt1025100/img",
+   "posterShape": "poster",
+   "description": "An over-the-hill hitman faces off against a younger clone of himself.",
+   "releaseInfo": "2019",
+   "imdbRating": "5.7",
+   "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1528100",
+   "type": "movie",
+   "name": "Exodus: Gods and Kings",
+   "poster": "https://images.metahub.space/poster/small/tt1528100/img",
+   "posterShape": "poster",
+   "description": "The defiant leader Moses rises up against Egyptian Pharaoh Ramses II, setting six hundred thousand slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.",
+   "releaseInfo": "2014",
+   "imdbRating": "6.0",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt1321509",
+   "type": "movie",
+   "name": "Death at a Funeral",
+   "poster": "https://images.metahub.space/poster/small/tt1321509/img",
+   "posterShape": "poster",
+   "description": "A funeral turns into a debacle of misplaced bodies and exposed family secrets.",
+   "releaseInfo": "2010",
+   "imdbRating": "5.7",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt10648342",
+   "type": "movie",
+   "name": "Thor: Love and Thunder",
+   "poster": "https://images.metahub.space/poster/small/tt10648342/img",
+   "posterShape": "poster",
+   "description": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+   "releaseInfo": "2022",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0315733",
+   "type": "movie",
+   "name": "21 Grams",
+   "poster": "https://images.metahub.space/poster/small/tt0315733/img",
+   "posterShape": "poster",
+   "description": "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.",
+   "releaseInfo": "2004",
+   "imdbRating": "7.6",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt6924650",
+   "type": "movie",
+   "name": "Midway",
+   "poster": "https://images.metahub.space/poster/small/tt6924650/img",
+   "posterShape": "poster",
+   "description": "The story of the Battle of Midway, told by the leaders and the sailors who fought in it.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.7",
+   "genres": [
+    "Action",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt6964076",
+   "type": "movie",
+   "name": "Pavarotti",
+   "poster": "https://images.metahub.space/poster/small/tt6964076/img",
+   "posterShape": "poster",
+   "description": "Life, works and achievements of opera legend Luciano Pavarotti.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.5",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt6723592",
+   "type": "movie",
+   "name": "Tenet",
+   "poster": "https://images.metahub.space/poster/small/tt6723592/img",
+   "posterShape": "poster",
+   "description": "Armed with only the word \"Tenet,\" and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+   "releaseInfo": "2020",
+   "imdbRating": "7.3",
+   "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt7713068",
+   "type": "movie",
+   "name": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+   "poster": "https://images.metahub.space/poster/small/tt7713068/img",
+   "posterShape": "poster",
+   "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
+   "releaseInfo": "2020",
+   "imdbRating": "6.0",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt1038686",
+   "type": "movie",
+   "name": "Legion",
+   "poster": "https://images.metahub.space/poster/small/tt1038686/img",
+   "posterShape": "poster",
+   "description": "Angels attacking humanity, led by a fallen angel defending a diner.",
+   "releaseInfo": "2010",
+   "imdbRating": "5.3",
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt6673612",
+   "type": "movie",
+   "name": "Dolittle",
+   "poster": "https://images.metahub.space/poster/small/tt6673612/img",
+   "posterShape": "poster",
+   "description": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+   "releaseInfo": "2020",
+   "imdbRating": "5.6",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt8579674",
+   "type": "movie",
+   "name": "1917",
+   "poster": "https://images.metahub.space/poster/small/tt8579674/img",
+   "posterShape": "poster",
+   "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+   "releaseInfo": "2020",
+   "imdbRating": "8.2",
+   "genres": [
+    "Drama",
+    "War"
+   ]
+  },
+  {
+   "id": "tt2584384",
+   "type": "movie",
+   "name": "Jojo Rabbit",
+   "poster": "https://images.metahub.space/poster/small/tt2584384/img",
+   "posterShape": "poster",
+   "description": "A young German boy in the Hitler Youth, whose hero and imaginary friend is the country's dictator, is shocked to discover that his mother is hiding a Jewish girl in their home.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.9",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "War"
+   ]
+  },
+  {
+   "id": "tt5108870",
+   "type": "movie",
+   "name": "Morbius",
+   "poster": "https://images.metahub.space/poster/small/tt5108870/img",
+   "posterShape": "poster",
+   "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+   "releaseInfo": "2022",
+   "imdbRating": "5.1",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt6710658",
+   "type": "movie",
+   "name": "The Reagan Show",
+   "poster": "https://images.metahub.space/poster/small/tt6710658/img",
+   "posterShape": "poster",
+   "description": "Made up entirely of archival news and White House footage, this documentary captures the pageantry, absurdity, and mastery of the made-for-TV politics of Ronald Reagan.",
+   "releaseInfo": "2017",
+   "imdbRating": "6.5",
+   "genres": [
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt8811382",
+   "type": "movie",
+   "name": "Meeting Gorbachev",
+   "poster": "https://images.metahub.space/poster/small/tt8811382/img",
+   "posterShape": "poster",
+   "description": "The life of Mikhail Gorbachev, the eighth and final President of the Soviet Union in chronological order.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.2",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+   ]
+  },
+  {
+   "id": "tt2281437",
+   "type": "movie",
+   "name": "Ronald Reagan: An American Journey",
+   "poster": "https://images.metahub.space/poster/small/tt2281437/img",
+   "posterShape": "poster",
+   "description": "An in-depth look at one of the most influential and popular political figures, the 40th President of the United States, Ronald Reagan. From his early career, the assassination attempt, trailblazing international relations, to his ...",
+   "releaseInfo": "2011",
+   "imdbRating": "7.7",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+   ]
+  },
+  {
+   "id": "tt7984766",
+   "type": "movie",
+   "name": "The King",
+   "poster": "https://images.metahub.space/poster/small/tt7984766/img",
+   "posterShape": "poster",
+   "description": "Young Henry V encounters deceit, war and treachery after becoming King of England in the 15th century, in the aftermath of his brother's death.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.3",
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ]
+  },
+  {
+   "id": "tt1707386",
+   "type": "movie",
+   "name": "Les Misérables",
+   "poster": "https://images.metahub.space/poster/small/tt1707386/img",
+   "posterShape": "poster",
+   "description": "In 19th-century France, Jean Valjean, who, for decades, has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+   "releaseInfo": "2012",
+   "imdbRating": "7.5",
+   "genres": [
+    "Drama",
+    "Musical",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt9417594",
+   "type": "movie",
+   "name": "Kosovo: A Moment In Civilization",
+   "poster": "https://images.metahub.space/poster/small/tt9417594/img",
+   "posterShape": "poster",
+   "description": "Many are aware of the heinous crimes against civilizational heritage in the Middle East committed by ISIS. But do people know that this kind of terror is happening in the very heart of Europe? Over 150 Christian churches and monas...",
+   "releaseInfo": "2017",
+   "imdbRating": "8.3",
+   "genres": [
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt1502397",
+   "type": "movie",
+   "name": "Bad Boys for Life",
+   "poster": "https://images.metahub.space/poster/small/tt1502397/img",
+   "posterShape": "poster",
+   "description": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+   "releaseInfo": "2020",
+   "imdbRating": "6.5",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt3480822",
+   "type": "movie",
+   "name": "Black Widow",
+   "poster": "https://images.metahub.space/poster/small/tt3480822/img",
+   "posterShape": "poster",
+   "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+   "releaseInfo": "2021",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt0093773",
+   "type": "movie",
+   "name": "Predator",
+   "poster": "https://images.metahub.space/poster/small/tt0093773/img",
+   "posterShape": "poster",
+   "description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+   "releaseInfo": "1987",
+   "imdbRating": "7.8",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt0120735",
+   "type": "movie",
+   "name": "Lock, Stock and Two Smoking Barrels",
+   "poster": "https://images.metahub.space/poster/small/tt0120735/img",
+   "posterShape": "poster",
+   "description": "When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+   "releaseInfo": "1998",
+   "imdbRating": "8.1",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0330793",
+   "type": "movie",
+   "name": "The Punisher",
+   "poster": "https://images.metahub.space/poster/small/tt0330793/img",
+   "posterShape": "poster",
+   "description": "An undercover FBI agent becomes a vigilante and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.",
+   "releaseInfo": "2004",
+   "imdbRating": "6.4",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt9243804",
+   "type": "movie",
+   "name": "The Green Knight",
+   "poster": "https://images.metahub.space/poster/small/tt9243804/img",
+   "posterShape": "poster",
+   "description": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+   "releaseInfo": "2021",
+   "imdbRating": "6.5",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt8106534",
+   "type": "movie",
+   "name": "6 Underground",
+   "poster": "https://images.metahub.space/poster/small/tt8106534/img",
+   "posterShape": "poster",
+   "description": "It follows a group of people who fake their deaths and decide to form a vigilante team in order to stage a coup d'état against a ruthless dictator.",
+   "releaseInfo": "2019",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt3187378",
+   "type": "movie",
+   "name": "The Asian Connection",
+   "poster": "https://images.metahub.space/poster/small/tt3187378/img",
+   "posterShape": "poster",
+   "description": "Two American expatriates, Jack and Sam, unwittingly steal a drug lord's money when they rob a series of banks in Southeast Asia and become the target of the gang's vengeance. When Sam is ...",
+   "releaseInfo": "2016",
+   "imdbRating": "3.4",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt4060866",
+   "type": "movie",
+   "name": "Code of Honor",
+   "poster": "https://images.metahub.space/poster/small/tt4060866/img",
+   "posterShape": "poster",
+   "description": "When his family is murdered, a Special Ops operative turns vigilante. Can his former protégé, now an FBI agent, stop him before mobsters and police close in?",
+   "releaseInfo": "2016",
+   "imdbRating": "4.1",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt5344794",
+   "type": "movie",
+   "name": "Sniper: Special Ops",
+   "poster": "https://images.metahub.space/poster/small/tt5344794/img",
+   "posterShape": "poster",
+   "description": "When the mission to rescue a U.S. Congressman who has been kidnapped by the Taliban goes sideways, Army sniper and his partner are left behind. Now, they must survive in enemy territory and wait for their unit to come back for them.",
+   "releaseInfo": "2016",
+   "imdbRating": "3.0",
+   "genres": [
+    "Action",
+    "Thriller",
+    "War"
+   ]
+  },
+  {
+   "id": "tt3503840",
+   "type": "movie",
+   "name": "Absolution",
+   "poster": "https://images.metahub.space/poster/small/tt3503840/img",
+   "posterShape": "poster",
+   "description": "Contract killer John Alexander (Steven Seagal, \"Under Siege\") has a chance to save an innocent girl from a powerful mob boss, but protecting her means betraying the government agency that hired him and putting his own life at risk.",
+   "releaseInfo": "2015",
+   "imdbRating": "4.4",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt2252552",
+   "type": "movie",
+   "name": "Gutshot Straight",
+   "poster": "https://images.metahub.space/poster/small/tt2252552/img",
+   "posterShape": "poster",
+   "description": "A gambler is drawn into a life of money and power to make a quick buck, but he quickly realizes he is part of a setup that could cost him his life.",
+   "releaseInfo": "2014",
+   "imdbRating": "3.6",
+   "genres": [
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt2611626",
+   "type": "movie",
+   "name": "Force of Execution",
+   "poster": "https://images.metahub.space/poster/small/tt2611626/img",
+   "posterShape": "poster",
+   "description": "A crime boss who runs a southwestern town needs the help of his former hit-man to deal with a new threat to his empire.",
+   "releaseInfo": "2013",
+   "imdbRating": "4.3",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt2119474",
+   "type": "movie",
+   "name": "Maximum Conviction",
+   "poster": "https://images.metahub.space/poster/small/tt2119474/img",
+   "posterShape": "poster",
+   "description": "Two former black ops operatives are required to transfer two female convicts to a prison. While on their way, unknown assailants attack them.",
+   "releaseInfo": "2012",
+   "imdbRating": "4.7",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1528718",
+   "type": "movie",
+   "name": "Born to Raise Hell",
+   "poster": "https://images.metahub.space/poster/small/tt1528718/img",
+   "posterShape": "poster",
+   "description": "A US drugs cop in Bucharest is up against a Russian gun and drug trafficker employing cute women and a Gypsy gang leader, who plunders, rapes and kills the young and rich. Lots of fighting and shooting.",
+   "releaseInfo": "2010",
+   "imdbRating": "4.3",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0985694",
+   "type": "movie",
+   "name": "Machete",
+   "poster": "https://images.metahub.space/poster/small/tt0985694/img",
+   "posterShape": "poster",
+   "description": "After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
+   "releaseInfo": "2010",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1360767",
+   "type": "movie",
+   "name": "A Dangerous Man",
+   "poster": "https://images.metahub.space/poster/small/tt1360767/img",
+   "posterShape": "poster",
+   "description": "A man is, after 14 years in special ops and 6 years wrongfully imprisoned, in the middle of a Chinese triad/corrupt police shootout saving a Russian gangster's son and liberating a Chinese girl and a bag of money. The girl asks for help.",
+   "releaseInfo": "2009",
+   "imdbRating": "5.1",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1296869",
+   "type": "movie",
+   "name": "The Keeper",
+   "poster": "https://images.metahub.space/poster/small/tt1296869/img",
+   "posterShape": "poster",
+   "description": "Corrupt cop Sallinger, nearly killed by crooked partner, retires to San Antonio as bodyguard for businessman's daughter.",
+   "releaseInfo": "2009",
+   "imdbRating": "5.0",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1227177",
+   "type": "movie",
+   "name": "Driven to Kill",
+   "poster": "https://images.metahub.space/poster/small/tt1227177/img",
+   "posterShape": "poster",
+   "description": "An ex-Russian mobster who is now a crime novelist must confront his past when his family is targeted by violence.",
+   "releaseInfo": "2009",
+   "imdbRating": "5.1",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1194271",
+   "type": "movie",
+   "name": "Against the Dark",
+   "poster": "https://images.metahub.space/poster/small/tt1194271/img",
+   "posterShape": "poster",
+   "description": "Katana master Tao leads a special ops squad of ex-military vigilantes on a massacre mission, their target: vampires on an post apocalyptic globe. Tao is the survivors' only hope and he knows the only cure is execution.",
+   "releaseInfo": "2009",
+   "imdbRating": "3.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1107859",
+   "type": "movie",
+   "name": "Kill Switch",
+   "poster": "https://images.metahub.space/poster/small/tt1107859/img",
+   "posterShape": "poster",
+   "description": "A troubled detective travels to Memphis in order to track down a pair of serial killers.",
+   "releaseInfo": "2008",
+   "imdbRating": "3.9",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1014801",
+   "type": "movie",
+   "name": "Pistol Whipped",
+   "poster": "https://images.metahub.space/poster/small/tt1014801/img",
+   "posterShape": "poster",
+   "description": "A tough ex-policeman (S.Seagal) with a gambling and alcohol problem gets offered a job as assassin of bad men. It'll rid him of all gambling debt as well as get him money and a chance of cleaning up his act and be with his daughter.",
+   "releaseInfo": "2008",
+   "imdbRating": "5.2",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0910934",
+   "type": "movie",
+   "name": "Urban Justice",
+   "poster": "https://images.metahub.space/poster/small/tt0910934/img",
+   "posterShape": "poster",
+   "description": "When a dedicated police officer is murdered, his father goes on a hunt for the people responsible.",
+   "releaseInfo": "2007",
+   "imdbRating": "5.2",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0783518",
+   "type": "movie",
+   "name": "Flight of Fury",
+   "poster": "https://images.metahub.space/poster/small/tt0783518/img",
+   "posterShape": "poster",
+   "description": "John is sent in to recover a stolen Stealth Bomber. His trusty sidekick Rojar and ever faithful Jessica fight the rebel forces of Banansistan, led by the vivacious Ellianna.",
+   "releaseInfo": "2007",
+   "imdbRating": "3.5",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0448114",
+   "type": "movie",
+   "name": "Shadow Man",
+   "poster": "https://images.metahub.space/poster/small/tt0448114/img",
+   "posterShape": "poster",
+   "description": "An intelligence operative discovers that no one is what they seem in the shadowy world of espionage.",
+   "releaseInfo": "2006",
+   "imdbRating": "4.1",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0427528",
+   "type": "movie",
+   "name": "Mercenary for Justice",
+   "poster": "https://images.metahub.space/poster/small/tt0427528/img",
+   "posterShape": "poster",
+   "description": "A mercenary gets involved in a mission that threatens the lives of his kin. In order to succeed, he must break into one of the most wellguarded prisons in Eastern Europe and free the son of the most notorious drug lord in the world today.",
+   "releaseInfo": "2006",
+   "imdbRating": "4.1",
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0443450",
+   "type": "movie",
+   "name": "Black Dawn",
+   "poster": "https://images.metahub.space/poster/small/tt0443450/img",
+   "posterShape": "poster",
+   "description": "Jonathan Cold returns, this time he goes undercover to stop a group of terrorists before they bomb Los Angeles.",
+   "releaseInfo": "2005",
+   "imdbRating": "3.8",
+   "genres": [
+    "Action"
+   ]
+  },
+  {
+   "id": "tt0431114",
+   "type": "movie",
+   "name": "Today You Die",
+   "poster": "https://images.metahub.space/poster/small/tt0431114/img",
+   "posterShape": "poster",
+   "description": "A former thief who is trying to go straight seeks vengeance on those who framed him.",
+   "releaseInfo": "2005",
+   "imdbRating": "4.2",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0377100",
+   "type": "movie",
+   "name": "Out of Reach",
+   "poster": "https://images.metahub.space/poster/small/tt0377100/img",
+   "posterShape": "poster",
+   "description": "Billy Ray Lansing, a former covert agent turned survivalist, discovers that the foster program he is using to help a young girl is actually a human trafficking network. Lancing heads overseas to find the girl and shut down the operation.",
+   "releaseInfo": "2004",
+   "imdbRating": "4.0",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0357474",
+   "type": "movie",
+   "name": "Belly of the Beast",
+   "poster": "https://images.metahub.space/poster/small/tt0357474/img",
+   "posterShape": "poster",
+   "description": "An ex-CIA agent's quest to find his kidnapped daughter leads him on a trail of political intrigue, corruption, danger and betrayal; he will stop at nothing to save her.",
+   "releaseInfo": "2003",
+   "imdbRating": "4.7",
+   "genres": [
+    "Action"
+   ]
+  },
+  {
+   "id": "tt0323531",
+   "type": "movie",
+   "name": "Out for a Kill",
+   "poster": "https://images.metahub.space/poster/small/tt0323531/img",
+   "posterShape": "poster",
+   "description": "An unsuspecting university professor is an unwitting accomplice in a foiled Chinese cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence.",
+   "releaseInfo": "2003",
+   "imdbRating": "3.4",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0312700",
+   "type": "movie",
+   "name": "The Foreigner",
+   "poster": "https://images.metahub.space/poster/small/tt0312700/img",
+   "posterShape": "poster",
+   "description": "A freelance agent must transport a package for a mysterious employer, leading him into a web of betrayal and deceit.",
+   "releaseInfo": "2003",
+   "imdbRating": "3.4",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0297162",
+   "type": "movie",
+   "name": "Half Past Dead",
+   "poster": "https://images.metahub.space/poster/small/tt0297162/img",
+   "posterShape": "poster",
+   "description": "A man goes undercover in a hi-tech prison to find information to help prosecute those who killed his wife. While there he stumbles onto a plot involving a death-row inmate and his $200 million stash of gold.",
+   "releaseInfo": "2002",
+   "imdbRating": "4.6",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0196158",
+   "type": "movie",
+   "name": "Ticker",
+   "poster": "https://images.metahub.space/poster/small/tt0196158/img",
+   "posterShape": "poster",
+   "description": "After a San Francisco detective's partner is murdered by Northern Irish terrorists, the officer joins the bomb squad in order to bring them to justice.",
+   "releaseInfo": "2001",
+   "imdbRating": "3.5",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0242445",
+   "type": "movie",
+   "name": "Exit Wounds",
+   "poster": "https://images.metahub.space/poster/small/tt0242445/img",
+   "posterShape": "poster",
+   "description": "Orin Boyd, a tough cop in an inner-city precinct discovers a web of dirty cops and corruption.",
+   "releaseInfo": "2001",
+   "imdbRating": "5.6",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0120786",
+   "type": "movie",
+   "name": "The Patriot",
+   "poster": "https://images.metahub.space/poster/small/tt0120786/img",
+   "posterShape": "poster",
+   "description": "A respected doctor must race against time to find a cure for a lethal virus unleashed by a paramilitary militia leader.",
+   "releaseInfo": "1998",
+   "imdbRating": "4.2",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0119123",
+   "type": "movie",
+   "name": "Fire Down Below",
+   "poster": "https://images.metahub.space/poster/small/tt0119123/img",
+   "posterShape": "poster",
+   "description": "A federal agent uncovers lucrative toxic waste dumps in Appalachia and must deal with the locals who want to keep their 'gold mine' secret.",
+   "releaseInfo": "1997",
+   "imdbRating": "5.2",
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0116421",
+   "type": "movie",
+   "name": "The Glimmer Man",
+   "poster": "https://images.metahub.space/poster/small/tt0116421/img",
+   "posterShape": "poster",
+   "description": "Two cops are forced to work together to solve a chain of mysterious killings by a killer nicknamed \"The Family Man\".",
+   "releaseInfo": "1996",
+   "imdbRating": "5.4",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0116253",
+   "type": "movie",
+   "name": "Executive Decision",
+   "poster": "https://images.metahub.space/poster/small/tt0116253/img",
+   "posterShape": "poster",
+   "description": "When terrorists seize control of an airliner, an intelligence analyst accompanies a commando unit for a midair boarding operation.",
+   "releaseInfo": "1996",
+   "imdbRating": "6.5",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0114781",
+   "type": "movie",
+   "name": "Under Siege 2: Dark Territory",
+   "poster": "https://images.metahub.space/poster/small/tt0114781/img",
+   "posterShape": "poster",
+   "description": "Casey Ryback, is on vacation, with his recently orphaned niece to attend his brother's funeral by train but when terrorists hijack it, to use as a mobile base to hack a top secret destructive US satellite, Ryback must stop them.",
+   "releaseInfo": "1995",
+   "imdbRating": "5.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0110725",
+   "type": "movie",
+   "name": "On Deadly Ground",
+   "poster": "https://images.metahub.space/poster/small/tt0110725/img",
+   "posterShape": "poster",
+   "description": "A blowout firefighter takes on an environmentally destructive oil corporation by causing many deaths and explosions in Alaska.",
+   "releaseInfo": "1994",
+   "imdbRating": "4.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0105690",
+   "type": "movie",
+   "name": "Under Siege",
+   "poster": "https://images.metahub.space/poster/small/tt0105690/img",
+   "posterShape": "poster",
+   "description": "Former Navy SEAL, Casey Ryback, is the only person capable of stopping a group of terrorists led by a rogue former CIA agent who seize the USS Missouri, a U.S. Navy battleship, in an attempt to steal its nuclear arsenal.",
+   "releaseInfo": "1992",
+   "imdbRating": "6.5",
+   "genres": [
+    "Action",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0100114",
+   "type": "movie",
+   "name": "Marked for Death",
+   "poster": "https://images.metahub.space/poster/small/tt0100114/img",
+   "posterShape": "poster",
+   "description": "A retired DEA agent is out to hunt down and take out a Jamaican drug posse that has targeted his family and him for murder.",
+   "releaseInfo": "1990",
+   "imdbRating": "5.9",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0099739",
+   "type": "movie",
+   "name": "Hard to Kill",
+   "poster": "https://images.metahub.space/poster/small/tt0099739/img",
+   "posterShape": "poster",
+   "description": "Targeted by the mob and its political supporters, hired assassins leave LAPD Detective Mason Storm for dead. Seven years later, he recovers from a deep coma, demanding justice and the opportunity to get even.",
+   "releaseInfo": "1990",
+   "imdbRating": "5.8",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0094602",
+   "type": "movie",
+   "name": "Above the Law",
+   "poster": "https://images.metahub.space/poster/small/tt0094602/img",
+   "posterShape": "poster",
+   "description": "A former Special Operations Vietnam vet works as a Chicago cop, and uncovers C.I.A. wrongdoing.",
+   "releaseInfo": "1988",
+   "imdbRating": "6.0",
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0190374",
+   "type": "movie",
+   "name": "Dungeons & Dragons",
+   "poster": "https://images.metahub.space/poster/small/tt0190374/img",
+   "posterShape": "poster",
+   "description": "Profion, a tyrant, attempts to overthrow a peaceful kingdom ruled by a tough empress.",
+   "releaseInfo": "2000",
+   "imdbRating": "3.7",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt2906216",
+   "type": "movie",
+   "name": "Dungeons & Dragons: Honor Among Thieves",
+   "poster": "https://images.metahub.space/poster/small/tt2906216/img",
+   "posterShape": "poster",
+   "description": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+   "releaseInfo": "2023",
+   "imdbRating": "7.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt11079148",
+   "type": "movie",
+   "name": "Justice League Dark: Apokolips War",
+   "poster": "https://images.metahub.space/poster/small/tt11079148/img",
+   "posterShape": "poster",
+   "description": "A Sequel to Justice League Dark (2017) involving Jack Kirby's New Gods.",
+   "releaseInfo": "2020",
+   "imdbRating": "7.8",
+   "genres": [
+    "Animation",
+    "Action",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt11765324",
+   "type": "movie",
+   "name": "Fast and Fierce: Death Race",
+   "poster": "https://images.metahub.space/poster/small/tt11765324/img",
+   "posterShape": "poster",
+   "description": "Jack Tyson is a young man partaking in an illegal Mexico-to-California car race when a desperate woman, fleeing from her abusive gangster boyfriend who is financing the race, jumps into his car pleading for his help and who has an...",
+   "releaseInfo": "2020",
+   "imdbRating": "2.4",
+   "genres": [
+    "Action"
+   ]
+  },
+  {
+   "id": "tt6199572",
+   "type": "movie",
+   "name": "Capone",
+   "poster": "https://images.metahub.space/poster/small/tt6199572/img",
+   "posterShape": "poster",
+   "description": "After a 10 year stint, former bootlegger and notorious criminal Al Capone starts to show signs of dementia, forcing him to face the demons of his violent past.",
+   "releaseInfo": "2020",
+   "imdbRating": "4.7",
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt11056594",
+   "type": "movie",
+   "name": "Rev",
+   "poster": "https://images.metahub.space/poster/small/tt11056594/img",
+   "posterShape": "poster",
+   "description": "A young thief with a history of grand theft auto becomes an informant and helps police bring down a criminal enterprise involved in the smuggling of hundreds of exotic super cars.",
+   "releaseInfo": "2020",
+   "imdbRating": "5.1",
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt6475714",
+   "type": "movie",
+   "name": "Monster Hunter",
+   "poster": "https://images.metahub.space/poster/small/tt6475714/img",
+   "posterShape": "poster",
+   "description": "When Cpt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers.",
+   "releaseInfo": "2020",
+   "imdbRating": "5.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt13143964",
+   "type": "movie",
+   "name": "Borat Subsequent Moviefilm",
+   "poster": "https://images.metahub.space/poster/small/tt13143964/img",
+   "posterShape": "poster",
+   "description": "Borat returns from Kazakhstan to America, this time to reveal more about its culture, the COVID-19 pandemic, and the political elections.",
+   "releaseInfo": "2020",
+   "imdbRating": "6.6",
+   "genres": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt14058484",
+   "type": "movie",
+   "name": "Biggie: I Got a Story to Tell",
+   "poster": "https://images.metahub.space/poster/small/tt14058484/img",
+   "posterShape": "poster",
+   "description": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew.",
+   "releaseInfo": "2021",
+   "imdbRating": "6.8",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt11083552",
+   "type": "movie",
+   "name": "Wrath of Man",
+   "poster": "https://images.metahub.space/poster/small/tt11083552/img",
+   "posterShape": "poster",
+   "description": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week.",
+   "releaseInfo": "2021",
+   "imdbRating": "7.1",
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0068646",
+   "type": "movie",
+   "name": "The Godfather",
+   "poster": "https://images.metahub.space/poster/small/tt0068646/img",
+   "posterShape": "poster",
+   "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+   "releaseInfo": "1972",
+   "imdbRating": "9.2",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0468569",
+   "type": "movie",
+   "name": "The Dark Knight",
+   "poster": "https://images.metahub.space/poster/small/tt0468569/img",
+   "posterShape": "poster",
+   "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+   "releaseInfo": "2008",
+   "imdbRating": "9.1",
+   "genres": [
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt0071562",
+   "type": "movie",
+   "name": "The Godfather Part II",
+   "poster": "https://images.metahub.space/poster/small/tt0071562/img",
+   "posterShape": "poster",
+   "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+   "releaseInfo": "1974",
+   "imdbRating": "9.0",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt0050083",
+   "type": "movie",
+   "name": "12 Angry Men",
+   "poster": "https://images.metahub.space/poster/small/tt0050083/img",
+   "posterShape": "poster",
+   "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+   "releaseInfo": "1957",
+   "imdbRating": "9.0",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt9376612",
+   "type": "movie",
+   "name": "Shang-Chi and the Legend of the Ten Rings",
+   "poster": "https://images.metahub.space/poster/small/tt9376612/img",
+   "posterShape": "poster",
+   "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+   "releaseInfo": "2021",
+   "imdbRating": "7.3",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt11502498",
+   "type": "movie",
+   "name": "Kenobi: A Star Wars Fan Film",
+   "poster": "https://images.metahub.space/poster/small/tt11502498/img",
+   "posterShape": "poster",
+   "description": "After years in hiding, Obi-Wan Kenobi struggles to reconnect with the Force in order to protect Luke Skywalker from Imperial forces.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.0",
+   "genres": [
+    "Short",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt0388789",
+   "type": "movie",
+   "name": "Born Into Brothels: Calcutta's Red Light Kids",
+   "poster": "https://images.metahub.space/poster/small/tt0388789/img",
+   "posterShape": "poster",
+   "description": "Two documentary filmmakers chronicle their time in Sonagchi, Calcutta and the relationships they developed with children of prostitutes who work the city's notorious red light district.",
+   "releaseInfo": "2005",
+   "imdbRating": "7.1",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "News"
+   ]
+  },
+  {
+   "id": "tt0375063",
+   "type": "movie",
+   "name": "Sideways",
+   "poster": "https://images.metahub.space/poster/small/tt0375063/img",
+   "posterShape": "poster",
+   "description": "Two men reaching middle age with not much to show but disappointment embark on a week-long road trip through California's wine country, just as one is about to take a trip down the aisle.",
+   "releaseInfo": "2004",
+   "imdbRating": "7.5",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt0338013",
+   "type": "movie",
+   "name": "Eternal Sunshine of the Spotless Mind",
+   "poster": "https://images.metahub.space/poster/small/tt0338013/img",
+   "posterShape": "poster",
+   "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+   "releaseInfo": "2004",
+   "imdbRating": "8.3",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt0109305",
+   "type": "movie",
+   "name": "Blue Chips",
+   "poster": "https://images.metahub.space/poster/small/tt0109305/img",
+   "posterShape": "poster",
+   "description": "A college basketball coach is forced to break the rules in order to get the players he needs to stay competitive.",
+   "releaseInfo": "1994",
+   "imdbRating": "6.3",
+   "genres": [
+    "Drama",
+    "Sport"
+   ]
+  },
+  {
+   "id": "tt8385148",
+   "type": "movie",
+   "name": "Hitman's Wife's Bodyguard",
+   "poster": "https://images.metahub.space/poster/small/tt8385148/img",
+   "posterShape": "poster",
+   "description": "The bodyguard, Michael Bryce, continues his friendship with assassin, Darius Kincaid, as they try to save Darius' wife Sonia.",
+   "releaseInfo": "2021",
+   "imdbRating": "6.1",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt0090756",
+   "type": "movie",
+   "name": "Blue Velvet",
+   "poster": "https://images.metahub.space/poster/small/tt0090756/img",
+   "posterShape": "poster",
+   "description": "A young man finds a severed human ear that is somehow connected to a mysterious lounge singer and a group of psychopathic criminals who have kidnapped her child.",
+   "releaseInfo": "1986",
+   "imdbRating": "7.7",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt6264654",
+   "type": "movie",
+   "name": "Free Guy",
+   "poster": "https://images.metahub.space/poster/small/tt6264654/img",
+   "posterShape": "poster",
+   "description": "When Guy, a bank teller, learns that he is a non-player character in a bloodthirsty, open-world video game, he goes on to become the hero of the story and takes the responsibility of saving the world.",
+   "releaseInfo": "2021",
+   "imdbRating": "7.1",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt6334354",
+   "type": "movie",
+   "name": "The Suicide Squad",
+   "poster": "https://images.metahub.space/poster/small/tt6334354/img",
+   "posterShape": "poster",
+   "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+   "releaseInfo": "2021",
+   "imdbRating": "7.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt5052448",
+   "type": "movie",
+   "name": "Get Out",
+   "poster": "https://images.metahub.space/poster/small/tt5052448/img",
+   "posterShape": "poster",
+   "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+   "releaseInfo": "2017",
+   "imdbRating": "7.8",
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt5466514",
+   "type": "movie",
+   "name": "Fear of Silent Hill",
+   "poster": "https://images.metahub.space/poster/small/tt5466514/img",
+   "posterShape": "poster",
+   "description": "Fear of Silent hill is a movie based mostly on the life of the abused 14-year old girl Alessa, who on some times become friends with the young girl Alma Wade who in some ways is very similar to Alessa. Alma's real age is unknown. ...",
+   "releaseInfo": "2016",
+   "imdbRating": "4.4",
+   "genres": [
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt14209916",
+   "type": "movie",
+   "name": "Cocaine Bear",
+   "poster": "https://images.metahub.space/poster/small/tt14209916/img",
+   "posterShape": "poster",
+   "description": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+   "releaseInfo": "2023",
+   "imdbRating": "5.9",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt6718170",
+   "type": "movie",
+   "name": "The Super Mario Bros. Movie",
+   "poster": "https://images.metahub.space/poster/small/tt6718170/img",
+   "posterShape": "poster",
+   "description": "Brooklyn plumbers Mario and Luigi are warped to the magical Mushroom Kingdom, and Mario must team up with Princess Peach, Toad, and Donkey Kong to save Luigi from the evil Bowser.",
+   "releaseInfo": "2023",
+   "imdbRating": "7.0",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0435625",
+   "type": "movie",
+   "name": "The Descent",
+   "poster": "https://images.metahub.space/poster/small/tt0435625/img",
+   "posterShape": "poster",
+   "description": "A caving expedition goes horribly wrong when six explorers become trapped and ultimately pursued by a strange breed of predators.",
+   "releaseInfo": "2006",
+   "imdbRating": "7.2",
+   "genres": [
+    "Adventure",
+    "Horror",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt8009314",
+   "type": "movie",
+   "name": "Burn",
+   "poster": "https://images.metahub.space/poster/small/tt8009314/img",
+   "posterShape": "poster",
+   "description": "When a gas station is held up at gunpoint by a desperate man in need of cash, a lonely and unstable gas station attendant, tired of being overshadowed by her more outgoing co-worker, finds an opportunity to make a connection with ...",
+   "releaseInfo": "2019",
+   "imdbRating": "5.7",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt3291150",
+   "type": "movie",
+   "name": "The Expendables 4",
+   "poster": "https://images.metahub.space/poster/small/tt3291150/img",
+   "posterShape": "poster",
+   "description": "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+   "releaseInfo": "2023",
+   "imdbRating": "4.8",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt3674140",
+   "type": "movie",
+   "name": "The Salt of the Earth",
+   "poster": "https://images.metahub.space/poster/small/tt3674140/img",
+   "posterShape": "poster",
+   "description": "The life and work of photographer Sebastião Salgado, who has spent forty years documenting societies in hidden corners of the world.",
+   "releaseInfo": "2014",
+   "imdbRating": "8.4",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+   ]
+  },
+  {
+   "id": "tt1502981",
+   "type": "movie",
+   "name": "High-Rise",
+   "poster": "https://images.metahub.space/poster/small/tt1502981/img",
+   "posterShape": "poster",
+   "description": "Through dialogues with the owners of penthouses in Rio de Janeiro, Sao Paulo and Recife, High-Rise explores the social and cultural mindset of the elite, and the phenomenon of the 'verticalization' of the Brazilian cityscape. This...",
+   "releaseInfo": "2009",
+   "imdbRating": "7.1",
+   "genres": [
+    "Documentary"
+   ]
+  }
+ ]
+}

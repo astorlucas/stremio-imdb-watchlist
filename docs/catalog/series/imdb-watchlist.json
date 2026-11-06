@@ -1,0 +1,727 @@
+{
+ "metas": [
+  {
+   "id": "tt6873658",
+   "type": "series",
+   "name": "The Mechanism",
+   "poster": "https://images.metahub.space/poster/small/tt6873658/img",
+   "posterShape": "poster",
+   "description": "Dramatic fiction series loosely inspired by an investigation of corruption in Brazil's private and state oil companies and construction companies.",
+   "releaseInfo": "2018–2019",
+   "imdbRating": "8.0",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt8416494",
+   "type": "series",
+   "name": "Doom Patrol",
+   "poster": "https://images.metahub.space/poster/small/tt8416494/img",
+   "posterShape": "poster",
+   "description": "The adventures of an idealistic mad scientist and his field team of superpowered outcasts.",
+   "releaseInfo": "2019–2023",
+   "imdbRating": "7.7",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0384766",
+   "type": "series",
+   "name": "Rome",
+   "poster": "https://images.metahub.space/poster/small/tt0384766/img",
+   "posterShape": "poster",
+   "description": "The lives of both illustrious and ordinary Romans in the last days of the Roman Republic.",
+   "releaseInfo": "2005–2007",
+   "imdbRating": "8.7",
+   "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "id": "tt6792200",
+   "type": "series",
+   "name": "The Keepers",
+   "poster": "https://images.metahub.space/poster/small/tt6792200/img",
+   "posterShape": "poster",
+   "description": "A seven-part docuseries about the unsolved murder of a nun and the horrific secrets and pain that linger nearly five decades after her death.",
+   "releaseInfo": "2017",
+   "imdbRating": "8.0",
+   "genres": [
+    "Documentary",
+    "Crime",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt8923854",
+   "type": "series",
+   "name": "Black Summer",
+   "poster": "https://images.metahub.space/poster/small/tt8923854/img",
+   "posterShape": "poster",
+   "description": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+   "releaseInfo": "2019–2021",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Drama",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt5607976",
+   "type": "series",
+   "name": "His Dark Materials",
+   "poster": "https://images.metahub.space/poster/small/tt5607976/img",
+   "posterShape": "poster",
+   "description": "A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.",
+   "releaseInfo": "2019–2022",
+   "imdbRating": "7.7",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt8420184",
+   "type": "series",
+   "name": "The Last Dance",
+   "poster": "https://images.metahub.space/poster/small/tt8420184/img",
+   "posterShape": "poster",
+   "description": "Led by Michael Jordan, the 1990s Chicago Bulls establish themselves as one of the most notable dynasties in sports history.",
+   "releaseInfo": "2020",
+   "imdbRating": "9.0",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+   ]
+  },
+  {
+   "id": "tt6632666",
+   "type": "series",
+   "name": "Project Blue Book",
+   "poster": "https://images.metahub.space/poster/small/tt6632666/img",
+   "posterShape": "poster",
+   "description": "A tough US Air Force officer and a skeptical scientist investigate UFO and alien conspiracies as Cold War paranoia spreads.",
+   "releaseInfo": "2019–2020",
+   "imdbRating": "7.6",
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt9113406",
+   "type": "series",
+   "name": "Wu-Tang: An American Saga",
+   "poster": "https://images.metahub.space/poster/small/tt9113406/img",
+   "posterShape": "poster",
+   "description": "The show tracks the Wu Tang Clan's formation, a vision of Bobby Diggs, who strives to unite a dozen young Black men who are torn between music and crime but eventually rise to become the unlikeliest of American success stories.",
+   "releaseInfo": "2019–2023",
+   "imdbRating": "8.2",
+   "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+   ]
+  },
+  {
+   "id": "tt7949218",
+   "type": "series",
+   "name": "See",
+   "poster": "https://images.metahub.space/poster/small/tt7949218/img",
+   "posterShape": "poster",
+   "description": "Far in a dystopian future, the human race has lost the sense of sight, and society has had to find new ways to interact, build, hunt, and to survive. All of that is challenged when a set of twins are born with sight.",
+   "releaseInfo": "2019–2022",
+   "imdbRating": "7.6",
+   "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt8911552",
+   "type": "series",
+   "name": "Hyperdrive",
+   "poster": "https://images.metahub.space/poster/small/tt8911552/img",
+   "posterShape": "poster",
+   "description": "Tournament series where drivers from around the world compete on one of the largest automotive obstacle courses ever made.",
+   "releaseInfo": "2019",
+   "imdbRating": "7.9",
+   "genres": [
+    "Reality-TV"
+   ]
+  },
+  {
+   "id": "tt11198330",
+   "type": "series",
+   "name": "House of the Dragon",
+   "poster": "https://images.metahub.space/poster/small/tt11198330/img",
+   "posterShape": "poster",
+   "description": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+   "releaseInfo": "2022–",
+   "imdbRating": "8.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8322592",
+   "type": "series",
+   "name": "Fast & Furious Spy Racers",
+   "poster": "https://images.metahub.space/poster/small/tt8322592/img",
+   "posterShape": "poster",
+   "description": "A team of teenage street racers are hired to infiltrate a criminal gang.",
+   "releaseInfo": "2019–2021",
+   "imdbRating": "5.9",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt5180504",
+   "type": "series",
+   "name": "The Witcher",
+   "poster": "https://images.metahub.space/poster/small/tt5180504/img",
+   "posterShape": "poster",
+   "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+   "releaseInfo": "2019–",
+   "imdbRating": "7.8",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt9637536",
+   "type": "series",
+   "name": "Jesus: His Life",
+   "poster": "https://images.metahub.space/poster/small/tt9637536/img",
+   "posterShape": "poster",
+   "description": "Comprehensive retelling of Jesus' life story from a Biblically-accurate perspective. Live-action storytelling interspersed with brief commentary provides context about the world as it was during the early Christian era.",
+   "releaseInfo": "2019–",
+   "imdbRating": "7.1",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7456722",
+   "type": "series",
+   "name": "Hunters",
+   "poster": "https://images.metahub.space/poster/small/tt7456722/img",
+   "posterShape": "poster",
+   "description": "In 1977 New York City, a troubled young Jewish man bent on revenge is taken in by a secret group of Nazi hunters fighting a clandestine war against a cell of high-ranking Nazi officials in hiding who work to create the Fourth Reich.",
+   "releaseInfo": "2020–2023",
+   "imdbRating": "7.2",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ]
+  },
+  {
+   "id": "tt0141842",
+   "type": "series",
+   "name": "The Sopranos",
+   "poster": "https://images.metahub.space/poster/small/tt0141842/img",
+   "posterShape": "poster",
+   "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+   "releaseInfo": "1999–2007",
+   "imdbRating": "9.2",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5515212",
+   "type": "series",
+   "name": "Big Hero 6: The Series",
+   "poster": "https://images.metahub.space/poster/small/tt5515212/img",
+   "posterShape": "poster",
+   "description": "Teen genius Hiro Hamada, Baymax the robot, and their friends defend the city of San Fransokyo as superheroes.",
+   "releaseInfo": "2017–2021",
+   "imdbRating": "7.2",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt10810430",
+   "type": "series",
+   "name": "The Mind, Explained",
+   "poster": "https://images.metahub.space/poster/small/tt10810430/img",
+   "posterShape": "poster",
+   "description": "Ever wonder what's happening inside your head? From dreaming to anxiety disorders, discover how your brain works with this illuminating series.",
+   "releaseInfo": "2019–2021",
+   "imdbRating": "7.9",
+   "genres": [
+    "Documentary"
+   ]
+  },
+  {
+   "id": "tt2802850",
+   "type": "series",
+   "name": "Fargo",
+   "poster": "https://images.metahub.space/poster/small/tt2802850/img",
+   "posterShape": "poster",
+   "description": "Various chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+   "releaseInfo": "2014–2024",
+   "imdbRating": "8.8",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt8741648",
+   "type": "series",
+   "name": "The Letter for the King",
+   "poster": "https://images.metahub.space/poster/small/tt8741648/img",
+   "posterShape": "poster",
+   "description": "Tiuri, a teenage squire, answers a call for help that sends him on a perilous mission across the three kingdoms to deliver a secret letter to the King.",
+   "releaseInfo": "2020",
+   "imdbRating": "6.0",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Family"
+   ]
+  },
+  {
+   "id": "tt6586318",
+   "type": "series",
+   "name": "Patrick Melrose",
+   "poster": "https://images.metahub.space/poster/small/tt6586318/img",
+   "posterShape": "poster",
+   "description": "This series depicts how the son of an aristocratic family seeks redemption and recovery.",
+   "releaseInfo": "2018",
+   "imdbRating": "8.0",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8332438",
+   "type": "series",
+   "name": "ZeroZeroZero",
+   "poster": "https://images.metahub.space/poster/small/tt8332438/img",
+   "posterShape": "poster",
+   "description": "The troubled journey of a large cocaine shipment across continents, based on Roberto Saviano's book ZeroZeroZero.",
+   "releaseInfo": "2019–2020",
+   "imdbRating": "8.1",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt8910922",
+   "type": "series",
+   "name": "Solar Opposites",
+   "poster": "https://images.metahub.space/poster/small/tt8910922/img",
+   "posterShape": "poster",
+   "description": "A family of aliens move to middle America, where they debate whether life is better there or on their home planet.",
+   "releaseInfo": "2020–2025",
+   "imdbRating": "7.9",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt4975856",
+   "type": "series",
+   "name": "Future Man",
+   "poster": "https://images.metahub.space/poster/small/tt4975856/img",
+   "posterShape": "poster",
+   "description": "Josh Futturman, a janitor by day and a gamer by night, is recruited by mysterious visitors to travel through time to prevent the extinction of humanity.",
+   "releaseInfo": "2017–2020",
+   "imdbRating": "7.6",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt0275137",
+   "type": "series",
+   "name": "Justice League",
+   "poster": "https://images.metahub.space/poster/small/tt0275137/img",
+   "posterShape": "poster",
+   "description": "Seven of the most formidable heroes form arguably the most powerful team ever.",
+   "releaseInfo": "2001–2004",
+   "imdbRating": "8.5",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt6025022",
+   "type": "series",
+   "name": "Justice League Unlimited",
+   "poster": "https://images.metahub.space/poster/small/tt6025022/img",
+   "posterShape": "poster",
+   "description": "A continuation of the Justice League animated series finds the original members of the team joined in their battle against crime and evil by dozens of other heroes from the DC comics universe.",
+   "releaseInfo": "2004–2006",
+   "imdbRating": "8.7",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt1312171",
+   "type": "series",
+   "name": "The Umbrella Academy",
+   "poster": "https://images.metahub.space/poster/small/tt1312171/img",
+   "posterShape": "poster",
+   "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+   "releaseInfo": "2019–2024",
+   "imdbRating": "7.8",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ]
+  },
+  {
+   "id": "tt9140560",
+   "type": "series",
+   "name": "WandaVision",
+   "poster": "https://images.metahub.space/poster/small/tt9140560/img",
+   "posterShape": "poster",
+   "description": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+   "releaseInfo": "2021",
+   "imdbRating": "7.9",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt7935522",
+   "type": "series",
+   "name": "Drug Lords",
+   "poster": "https://images.metahub.space/poster/small/tt7935522/img",
+   "posterShape": "poster",
+   "description": "Documentary series examining drug cartels and kingpins from around the world.",
+   "releaseInfo": "2018",
+   "imdbRating": "6.8",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt9140554",
+   "type": "series",
+   "name": "Loki",
+   "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+   "posterShape": "poster",
+   "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+   "releaseInfo": "2021–2023",
+   "imdbRating": "8.2",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt2167393",
+   "type": "series",
+   "name": "The Men Who Built America",
+   "poster": "https://images.metahub.space/poster/small/tt2167393/img",
+   "posterShape": "poster",
+   "description": "Rockefeller, Vanderbilt, Carnegie, Astor, Ford and Morgan. Their names are part of history and synonymous with the American dream. These men transformed every industry they touched: oil, rail, steel, shipping, automobiles, and fin...",
+   "releaseInfo": "2012",
+   "imdbRating": "8.5",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+   ]
+  },
+  {
+   "id": "tt10098248",
+   "type": "series",
+   "name": "The Food That Built America",
+   "poster": "https://images.metahub.space/poster/small/tt10098248/img",
+   "posterShape": "poster",
+   "description": "Food will tell the unknown stories of innovation and rivalries behind food industry tycoons Milton Hershey, John and Will Kellogg, Henry Heinz, C.W. Post, the McDonald brothers and more.",
+   "releaseInfo": "2019–",
+   "imdbRating": "8.4",
+   "genres": [
+    "Documentary",
+    "History"
+   ]
+  },
+  {
+   "id": "tt10098580",
+   "type": "series",
+   "name": "Washington",
+   "poster": "https://images.metahub.space/poster/small/tt10098580/img",
+   "posterShape": "poster",
+   "description": "The life story of George Washington, the first President of the United States.",
+   "releaseInfo": "2020",
+   "imdbRating": "7.9",
+   "genres": [
+    "Documentary",
+    "Biography",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt12708542",
+   "type": "series",
+   "name": "Star Wars: The Bad Batch",
+   "poster": "https://images.metahub.space/poster/small/tt12708542/img",
+   "posterShape": "poster",
+   "description": "Members of a squad of experimental clones make their way through an ever-changing galaxy in the aftermath of the Clone Wars.",
+   "releaseInfo": "2021–2024",
+   "imdbRating": "7.8",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt13622982",
+   "type": "series",
+   "name": "Star Wars: Visions",
+   "poster": "https://images.metahub.space/poster/small/tt13622982/img",
+   "posterShape": "poster",
+   "description": "An anthology of animated shorts from around the world celebrating the mythology of Star Wars through unique cultural perspectives.",
+   "releaseInfo": "2021–",
+   "imdbRating": "7.0",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt12262202",
+   "type": "series",
+   "name": "The Acolyte",
+   "poster": "https://images.metahub.space/poster/small/tt12262202/img",
+   "posterShape": "poster",
+   "description": "An investigation into a shocking crime spree pits a respected Jedi Master against a dangerous warrior from his past. As more clues emerge, they travel down a dark path where sinister forces reveal all is not what it seems…",
+   "releaseInfo": "2024",
+   "imdbRating": "4.3",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt13622776",
+   "type": "series",
+   "name": "Ahsoka",
+   "poster": "https://images.metahub.space/poster/small/tt13622776/img",
+   "posterShape": "poster",
+   "description": "After the fall of the Galactic Empire, former Jedi Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+   "releaseInfo": "2023–",
+   "imdbRating": "7.4",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt13668894",
+   "type": "series",
+   "name": "The Book of Boba Fett",
+   "poster": "https://images.metahub.space/poster/small/tt13668894/img",
+   "posterShape": "poster",
+   "description": "Bounty hunter Boba Fett and mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt's old turf.",
+   "releaseInfo": "2021–2022",
+   "imdbRating": "7.1",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt9253284",
+   "type": "series",
+   "name": "Andor",
+   "poster": "https://images.metahub.space/poster/small/tt9253284/img",
+   "posterShape": "poster",
+   "description": "In an era filled with danger, deception, and intrigue, Cassian Andor embarks on a path that is destined to turn him into a Rebel hero.",
+   "releaseInfo": "2022–2025",
+   "imdbRating": "8.6",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt8466564",
+   "type": "series",
+   "name": "Obi-Wan Kenobi",
+   "poster": "https://images.metahub.space/poster/small/tt8466564/img",
+   "posterShape": "poster",
+   "description": "Jedi Master Obi-Wan Kenobi must save young Leia after she is kidnapped, all the while being pursued by Imperial Inquisitors and his former Padawan now known as Darth Vader.",
+   "releaseInfo": "2022",
+   "imdbRating": "7.0",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt0458290",
+   "type": "series",
+   "name": "Star Wars: The Clone Wars",
+   "poster": "https://images.metahub.space/poster/small/tt0458290/img",
+   "posterShape": "poster",
+   "description": "Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+   "releaseInfo": "2008–2020",
+   "imdbRating": "8.5",
+   "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ]
+  },
+  {
+   "id": "tt1632701",
+   "type": "series",
+   "name": "Suits",
+   "poster": "https://images.metahub.space/poster/small/tt1632701/img",
+   "posterShape": "poster",
+   "description": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.",
+   "releaseInfo": "2011–2019",
+   "imdbRating": "8.4",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt5028002",
+   "type": "series",
+   "name": "StartUp",
+   "poster": "https://images.metahub.space/poster/small/tt5028002/img",
+   "posterShape": "poster",
+   "description": "A desperate banker, a Haitian-American gang lord and a Cuban-American hacker are forced to work together to unwittingly create their version of the American dream - organized crime 2.0.",
+   "releaseInfo": "2016–2018",
+   "imdbRating": "7.8",
+   "genres": [
+    "Crime",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt1190634",
+   "type": "series",
+   "name": "The Boys",
+   "poster": "https://images.metahub.space/poster/small/tt1190634/img",
+   "posterShape": "poster",
+   "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+   "releaseInfo": "2019–2026",
+   "imdbRating": "8.5",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt4955642",
+   "type": "series",
+   "name": "The Good Place",
+   "poster": "https://images.metahub.space/poster/small/tt4955642/img",
+   "posterShape": "poster",
+   "description": "Eleanor Shellstrop, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity and tries to hide her past in order to stay there.",
+   "releaseInfo": "2016–2020",
+   "imdbRating": "8.2",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ]
+  },
+  {
+   "id": "tt6156584",
+   "type": "series",
+   "name": "Snowpiercer",
+   "poster": "https://images.metahub.space/poster/small/tt6156584/img",
+   "posterShape": "poster",
+   "description": "Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe, where class warfare, social injustice, and the politics of survival play out.",
+   "releaseInfo": "2020–2024",
+   "imdbRating": "6.9",
+   "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ]
+  },
+  {
+   "id": "tt6110648",
+   "type": "series",
+   "name": "The Purge",
+   "poster": "https://images.metahub.space/poster/small/tt6110648/img",
+   "posterShape": "poster",
+   "description": "In an altered United States, several unrelated people discover how far they will go to survive a night during which all crime is legal for 12 hours.",
+   "releaseInfo": "2018–2019",
+   "imdbRating": "6.6",
+   "genres": [
+    "Action",
+    "Drama",
+    "Horror"
+   ]
+  },
+  {
+   "id": "tt3079768",
+   "type": "series",
+   "name": "Dominion",
+   "poster": "https://images.metahub.space/poster/small/tt3079768/img",
+   "posterShape": "poster",
+   "description": "Follows the perilous journey of a rebellious young soldier who discovers he's the unlikely savior of humanity.",
+   "releaseInfo": "2014–2015",
+   "imdbRating": "6.7",
+   "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+   ]
+  }
+ ]
+}
